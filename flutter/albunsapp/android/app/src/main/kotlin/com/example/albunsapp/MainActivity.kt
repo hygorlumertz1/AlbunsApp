@@ -1,0 +1,5 @@
+package com.example.albunsapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
