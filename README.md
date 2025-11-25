@@ -41,7 +41,6 @@ AlbunsApp/
 ├── App.js                 # Arquivo principal com todas as telas
 ├── package.json           # Dependências do projeto
 ├── app.json              # Configurações do Expo
-├── babel.config.js       # Configuração Babel
 ├── README.md             # Esta documentação
 └── assets/               # Recursos do app
 ```
