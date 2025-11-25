@@ -1,0 +1,1 @@
+ /home/hygor/codigos/AlbunsApp/flutter/albunsapp/.dart_tool/flutter_build/9b2fe74fbb75df7ce23476961ec2e498/native_assets.yaml: 
